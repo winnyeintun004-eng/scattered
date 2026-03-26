@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "scattered",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a5655df0-f278-4325-90d8-d18fbb3be2dd",
+			"database_name": "mylee"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
